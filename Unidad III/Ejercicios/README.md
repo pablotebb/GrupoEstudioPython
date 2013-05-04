@@ -13,9 +13,9 @@ Ejercicios Propuestos
 	> ¿En donde debe terminar la tabla?: 5
 	>
 	> 1 x 2 = 2
-	> 2 x 3 = 3
-	> 3 x 4 = 4
-	> 4 x 5 = 5
+	> 1 x 3 = 3
+	> 1 x 4 = 4
+	> 1 x 5 = 5
 	>
 	> 2 x 2 = 4
 	> 2 x 3 = 6
