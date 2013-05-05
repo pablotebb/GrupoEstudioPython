@@ -1,6 +1,9 @@
 Ejercicios Propuestos
 -----------------------
-**Ejercicio 1**
+**Semana 3-Ejercicio 1 _(Oficial)_**
+
+**Dificultad:** ***Fácil***
+
 
 > Desarrollar un programa que imprima tablas de multiplicar a partir de 3 parámetros recibidos por el usuario.
 > El primer parámetro indicará hasta que tabla debe imprimir.
@@ -22,4 +25,4 @@ Ejercicios Propuestos
 	> 2 x 4 = 8
 	> 2 x 5 = 10
 
-**Solución Propuesta:** *Tablas.py*
+**Solución Propuesta:** *Sem3Eje1+Solucion.py*
